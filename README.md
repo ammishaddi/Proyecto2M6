@@ -10,5 +10,5 @@ El presente repositorio contiene el proyecto 2 del Módulo "Introducción a Reac
 ## Lista
 ![Texto alternativo](https://i.imgur.com/jTMklvU.png)
 
-### Componente Lista
+## Componente Lista
 ![Texto alternativo](https://i.imgur.com/0QogmZC.png)
